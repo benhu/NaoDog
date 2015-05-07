@@ -1,0 +1,14 @@
+[
+  {
+    "environment": null, 
+    "name": "test_NaoDog", 
+    "cmd": [
+      "/home/benjamin/Documents/Workspace/NaoDog/build-naodogtoolchain/sdk/bin/test_NaoDog"
+    ], 
+    "nightly": false, 
+    "gtest": false, 
+    "working_directory": null, 
+    "timeout": 20, 
+    "perf": false
+  }
+]
