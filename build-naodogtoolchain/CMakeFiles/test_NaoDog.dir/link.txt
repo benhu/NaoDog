@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/test_NaoDog.dir/test.cpp.o  -o sdk/bin/test_NaoDog -rdynamic -Wl,-rpath,:::::::::::::: 

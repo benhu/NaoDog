@@ -1,1 +1,0 @@
---name;test_NaoDog;--timeout;20;--;/home/benjamin/Documents/Workspace/NaoDog/build-naodogtoolchain/sdk/bin/test_NaoDog

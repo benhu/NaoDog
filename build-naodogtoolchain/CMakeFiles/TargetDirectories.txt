@@ -1,2 +1,0 @@
-/home/benjamin/Documents/Workspace/NaoDog/build-naodogtoolchain/CMakeFiles/NaoDog.dir
-/home/benjamin/Documents/Workspace/NaoDog/build-naodogtoolchain/CMakeFiles/test_NaoDog.dir
